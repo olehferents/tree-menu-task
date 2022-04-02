@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Root level",
+    "nodes": [
+      {
+        "title": "Child 1",
+        "nodes": [
+          {
+            "title": "Child 1-1",
+            "nodes": []
+          },
+          {
+            "title": "Child 1-2",
+            "nodes": []
+          }
+        ]
+      },
+      {
+        "title": "Child 2",
+        "nodes": []
+      }
+    ]
+  }
+]
